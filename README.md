@@ -4,5 +4,5 @@ Nama: NUR HILAL ADI SAPUTRA
 Kesan pertama menggunakan Visual Studio Code:
 * Antarmukanya terlihat profesional.
 * Latar belakang layarnya gelap (Dark mode).
-* Seperti duduk di kokpit pesawat
+* Seperti duduk di kokpit pesawat as pemula
 
